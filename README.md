@@ -1,4 +1,4 @@
-# stopmotion
+# Retroactive effects of surprise - code
 
 This repository contains the code required to reproduce results of a registered report testing retroactive effects of surprise. The stimuli and data can be found on OSF: https://osf.io/rjav4/
 
